@@ -413,32 +413,36 @@ footer {
 
 
 @keyframes anim4 {
-    14% {
+    12% {
         background-image: url(1.jpg);
     }
 
-    28% {
-        background-image: url(2.jpg);
+    24% {
+        background-image: url(8.jpg);
     }
 
-    42% {
+    36% {
         background-image: url(3.jpg);
     }
 
-    56% {
+    48% {
         background-image: url(4.jpg);
     }
 
-    70% {
+    60% {
         background-image: url(5.jpg);
     }
 
-    84% {
+    72% {
         background-image: url(6.jpg);
     }
 
-    98% {
+    84% {
         background-image: url(7.jpg);
+    }
+
+    96%{
+        background-image: url(2.jpg);
     }
 }
 
